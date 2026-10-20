@@ -55,10 +55,18 @@ __history/
 *.o
 *.compiled
 
-#arquivos de instalação locais
+#arquivos de instalaï¿½ï¿½o locais
 log_*.txt
 Binary
 frceInstall.ini
 
 
 *.bak
+/Source
+/Packages
+Packages/dclfrce.dpk
+Packages/dclfrce.dproj
+Packages/dclfrce.res
+Packages/frce.dpk
+Packages/frce.dproj
+Packages/frce.res
